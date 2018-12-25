@@ -1,7 +1,9 @@
-## Hello WebVR, Hello OculusGo
-昨日買ったのでとりあえず最短で試した。
+## Hello WebVR, Hello OculusGo YUKIDARU-SAN
+セルフサンタに貰ったのでとりあえずゆきだるさん作った。
 
 https://kzkick2nd.github.io/oculus-go-hello-webVR/index.html
+
+Shorten: https://git.io/fhTeP
 
 ### WebVR ラッパーライブラリ
 - [A-Frame – Make WebVR](https://aframe.io/)
