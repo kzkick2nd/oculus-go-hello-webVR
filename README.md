@@ -1,5 +1,5 @@
 ## Hello WebVR, Hello OculusGo YUKIDARU-SAN
-セルフサンタに貰ったのでとりあえずゆきだるさん作った。
+セルフサンタにOculusGo貰ったのでとりあえずゆきだるさん作った。メリークリスマス。
 
 https://kzkick2nd.github.io/oculus-go-hello-webVR/index.html
 
