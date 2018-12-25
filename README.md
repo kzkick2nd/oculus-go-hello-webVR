@@ -1,6 +1,8 @@
 ## Hello WebVR, Hello OculusGo
 昨日買ったのでとりあえず最短で試した。
 
+https://kzkick2nd.github.io/oculus-go-hello-webVR/index.html
+
 ### WebVR ラッパーライブラリ
 - [A-Frame – Make WebVR](https://aframe.io/)
     - [Hello WebVR – A-Frame](https://aframe.io/examples/showcase/helloworld/)
